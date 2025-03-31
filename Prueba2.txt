@@ -1,1 +1,3 @@
 Segundo archivo creado en el local con git
+
+agregamos una linea al prueba2
